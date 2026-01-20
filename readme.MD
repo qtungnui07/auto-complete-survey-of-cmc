@@ -1,6 +1,8 @@
-vibecoding*
+**vibecoding**
+
 https://github.com/qtungnui07/auto-complete-survey-of-cmc.git
-!(/img/C6uWYmcjub.png)
+![](img/C6uWYmcjub.png)
+
 ```javascript
 (function autoFillSurvey() {
     const questions = document.querySelectorAll('.student-choose');
